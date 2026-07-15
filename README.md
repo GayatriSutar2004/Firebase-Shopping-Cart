@@ -8,6 +8,13 @@
 A simple yet powerful Shopping Cart web application built using <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, and <b>Firebase Realtime Database</b>. This project is perfect for beginners who want to understand how a frontend application communicates with a cloud database without building a backend server.
 </p>
 
+## 🔗 Live Demo
+
+🚀 **Try the application here:**
+
+**https://catshoppingcart.netlify.app/**
+
+No installation required—just open the link and start adding shopping items in real time.
 ---
 
 ## 🌟 Why This Project?
